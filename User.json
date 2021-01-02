@@ -1,0 +1,74 @@
+[
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$FikVwiYBacwa$saBsS8s8/xd1WjaEoQOr+nlZTYpoqFl1keBzfuRHeWA=",
+        "last_login": "2020-12-29T04:29:09.520Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@example.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2020-12-21T06:03:50.285Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$zVUkyVrxKJAh$puL1X4akE07UsejCc8KfdzvxIixH0yn/J69mMPgt+ds=",
+        "last_login": "2020-12-28T06:59:22.735Z",
+        "is_superuser": false,
+        "username": "manan",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-12-23T04:18:53.098Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$HrVmZ1SH6cQC$HYTy+orB90gQR2Wh2FvGQwPZq9vm1pM6VaVehlYi02E=",
+        "last_login": "2020-12-23T06:49:36.472Z",
+        "is_superuser": false,
+        "username": "yfty",
+        "first_name": "",
+        "last_name": "",
+        "email": "gokultajpara@yahoo.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-12-23T06:49:36.325Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$W6Ut5kVky2ID$tv6wNpxJd2r06cOtXRTg1cZJMSs2lFyO1AwSIbtq74Q=",
+        "last_login": "2020-12-29T04:16:51.334Z",
+        "is_superuser": false,
+        "username": "manan1",
+        "first_name": "",
+        "last_name": "",
+        "email": "manan1@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-12-24T08:21:09.805Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
